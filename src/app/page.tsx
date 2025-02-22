@@ -1,6 +1,13 @@
+import Hero from "@/components/sections/Hero";
+import Pricing from "@/components/sections/Pricing";
+import Trying from "@/components/sections/Trying";
 
 export default function Home() {
   return (
-    <h1>Hello me</h1>
+    <>
+      <Hero />
+      <Trying />
+      <Pricing />
+    </>
   );
 }

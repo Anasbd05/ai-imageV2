@@ -1,0 +1,9 @@
+all time 
+first div = py-6 px-3 sm:py-10
+
+pricing : 
+
+h1 : Choose the plan that fits your needs.
+
+p : 
+Whether you're exploring AI image transformations for fun or need high-quality, watermark-free results, we’ve got you covered
