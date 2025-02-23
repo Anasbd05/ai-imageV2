@@ -24,7 +24,7 @@ const Footer = () => {
                     </ul>
                 </div>
             </div>
-            <hr className='border-none h-[1px] bg-accent ' />
+            <hr className='border-none h-[1px] bg-primary ' />
             <p className='text-center mt-8'>&copy; 2025 Copyright. All rights are reserved</p>
         </footer>
     )

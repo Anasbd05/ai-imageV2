@@ -9,11 +9,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        'text': '#091a09',
-        'background': '#f0faf1',
-        'primary': '#43be52',
-        'secondary': '#99ccdc',
-        'accent': '#769ed0',
+        'text': '#1a0505',
+        'background': '#fcf1f1',
+        'primary': '#da322f',
+        'secondary': '#a6ea87',
+        'accent': '#53e06f',
       },
       fontFamily: {
         "dm_sans": "DM_Sans"

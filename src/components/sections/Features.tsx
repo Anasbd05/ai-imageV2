@@ -12,7 +12,7 @@ const Features = () => {
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 mt-5 md:grid-cols-3 gap-5 px-10">
                 {features.map((feature) => (
-                    <div key={feature.id} className="p-6 shadow-md border border-primary shadow-primary rounded-lg flex flex-col gap-2  ">
+                    <div key={feature.id} className="p-6 shadow-md border border-accent shadow-secondary rounded-lg flex flex-col gap-2  ">
                         <h1 className='font-bold font-dm_sans text-xl my-4'>{feature.header}</h1>
                         <p className='text-justify text-gray-700'>{feature.body}</p>
                     </div>
